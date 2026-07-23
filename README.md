@@ -1,2 +1,13 @@
-# finacial-performance-analysis-sql
-An end-to-end financial performance analysis project using Microsoft Excel and SQL. This project explores sales, revenue, expenses, profitability and regional performance through data analysis, interactive dashboards and SQL queries to generate business insights and support decision-making.
+# Financial Performance Analysis (SQL + Python)
+
+   This project analyzes sales and financial performance using SQL and Python (pandas + SQLite), calculating key metrics such as revenue, expenses, profit margins, and regional profitability.
+
+   ## Key Metrics Covered
+   - Total Revenue, Expenses, and Profit
+   - Monthly and Quarterly Revenue Trends
+   - Revenue and Profit by Region
+   - Top Performing Products and Regions
+   - Average Profit Margin by Product
+
+   ## Sample Result
+   ![Revenue by Region](Revenu_by_Region.png)
