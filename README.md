@@ -10,4 +10,4 @@
    - Average Profit Margin by Product
 
    ## Sample Result
-   ![Revenue by Region](Revenue_by_Region.png)
+   ![Revenue by Region](Revenue%20by%20Region.png)
